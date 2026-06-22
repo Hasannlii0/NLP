@@ -1,0 +1,40 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+ENV/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Data & dataset archives (download via the Kaggle API instead of committing) ---
+*.csv
+*.zip
+data/
+ag-news-classification-dataset.zip
+
+# --- Kaggle credentials (NEVER commit this) ---
+kaggle.json
+
+# --- Model artifacts / checkpoints ---
+*.pt
+*.pth
+*.bin
+checkpoints/
+runs/
+
+# --- OS / Editor ---
+.DS_Store
+.vscode/
+.idea/
