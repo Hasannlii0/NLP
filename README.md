@@ -71,8 +71,8 @@ A standard Transformer encoder used as a sequence classifier:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Hasannlii0/NLP.git
+cd NLP
 ```
 
 ### 2. Create an environment and install dependencies
